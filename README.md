@@ -7,6 +7,8 @@
 
 ---
 
+![image alt](https://github.com/Sivaprasad-creator/Coffee-Shop-Sales/blob/d1a1587ed57d081a7275c824302b55b2e447970d/Coffee.jpg)
+
 ## 📊 Project Overview
 
 This project provides a detailed sales analysis for a coffee shop chain using **Power BI**. The dashboard offers interactive insights into key performance indicators such as total sales, order patterns, and product performance. The analysis enables data-driven decision-making by visualizing trends and business performance across time, location, and products.
