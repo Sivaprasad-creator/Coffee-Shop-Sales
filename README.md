@@ -69,7 +69,7 @@ This dashboard highlights customer buying behavior and peak business periods. Ke
 
 ## ⚙️ How to Run
 
-1. Download the dataset and Power BI `.pbix` file from the [Releases](https://github.com/Sivaprasad-creator/Coffee-Shop-Sales/releases).
+1. Download the dataset and Power BI `.pbix` file.
 2. Open `Coffee_Shop_Sales.pbix` using **Microsoft Power BI Desktop**.
 3. Ensure the dataset path is correctly linked (if external).
 4. Explore the interactive visuals and filters to analyze the sales performance.
