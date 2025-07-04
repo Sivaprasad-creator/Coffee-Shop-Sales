@@ -53,6 +53,12 @@ This dashboard highlights customer buying behavior and peak business periods. Ke
 
 ---
 
+## Dashboard Preview
+
+![image alt](https://github.com/Sivaprasad-creator/Coffee-Shop-Sales/blob/b856d44f2cd6b06b7cc4d2275814f5b886275576/Coffee.jpg)
+
+---
+
 ## 📊 Dashboard Visuals
 
 | Visual | Type |
