@@ -7,7 +7,7 @@
 
 ---
 
-![image alt]([https://github.com/Sivaprasad-creator/Coffee-Shop-Sales/blob/d1a1587ed57d081a7275c824302b55b2e447970d/Coffee.jpg](https://github.com/Sivaprasad-creator/Coffee-Shop-Sales/blob/12c38f2806b578b35ef8110e53905fcf8a7a935e/Coffee%20Dashboard.png))
+![image alt](https://github.com/Sivaprasad-creator/Coffee-Shop-Sales/blob/b856d44f2cd6b06b7cc4d2275814f5b886275576/Coffee.jpg)
 
 ## 📊 Project Overview
 
@@ -55,7 +55,7 @@ This dashboard highlights customer buying behavior and peak business periods. Ke
 
 ## Dashboard Preview
 
-![image alt](https://github.com/Sivaprasad-creator/Coffee-Shop-Sales/blob/b856d44f2cd6b06b7cc4d2275814f5b886275576/Coffee.jpg)
+![image alt](https://github.com/Sivaprasad-creator/Coffee-Shop-Sales/blob/12c38f2806b578b35ef8110e53905fcf8a7a935e/Coffee%20Dashboard.png)
 
 ---
 
